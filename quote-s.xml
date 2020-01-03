@@ -1,0 +1,17 @@
+<StockQuote>
+    <Status>SUCCESS</Status>
+    <Name>Google Inc</Name>
+    <Symbol>6006L</Symbol>
+    <LastPrice>532.96</LastPrice>
+    <Change>0.22</Change>
+    <ChangePercent>0.0412959417</ChangePercent>
+    <Timestamp>Fri Apr 17 15:59:00 UTC-04:00 2015</Timestamp>
+    <MSDate>42111.6659722222</MSDate>
+    <MarketCap>181183482720</MarketCap>
+    <Volume>120575</Volume>
+    <ChangeYTO>530.66</ChangeYTD>
+    <ChangePercentYTD>0.4334225304</ChangePercentYTD>
+    <High>539.78</Nigh>
+    <Low>529.31</Low>
+    <Open>537.295</Open>
+</StockQuote>
